@@ -1,7 +1,7 @@
 [book]
-title = "Example book"
-author = "John Doe"
-# authors = ["My Name"]
+title = "Digital Authorship"
+# author = "N. S. Reiss"
+authors = ["N. S. Reiss", "N. S. Reiss minime"]
 description = "The example book covers examples."
 
 src = "src"
